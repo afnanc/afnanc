@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Afnan
+
+I'm a second year Computer Science student.
+
+Environment: MacOS, Windows
 
 <!--
 **afnanc/afnanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
