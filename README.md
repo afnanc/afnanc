@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Afnan
 
-I'm a second year Computer Science student. Please take a look at my repositories below. Some respositories may be private due to new features being added.
-
+I'm a second year Computer Science student. Please take a look at my repositories below.
 Environment: MacOS, Windows
 
 <!--
