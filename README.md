@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Afnan
 
-I'm a second year Computer Science student. Please have a look at my repositories below. Enjoy.
+I'm a second year Computer Science student. Please have a look at my repositories below. Thanks.
 
 Environment: MacOS, Windows
 
